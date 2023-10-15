@@ -35,6 +35,7 @@ int main() {
     printf ("a,b,c angles = %lf, %lf, %lf\n", a, b,c );
     printf ("a,b,c angles in deegrees = %lf, %lf, %lf\n", a1,b1,c1);
     printf ("Sum of angles = %lf\n", E);
+    clock (50000000000000000);
 
     return 0;
 
